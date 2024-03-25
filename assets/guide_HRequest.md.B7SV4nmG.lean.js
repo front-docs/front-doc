@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DIOhhsLK.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/HRequest.md","filePath":"guide/HRequest.md"}'),s={name:"guide/HRequest.md"};function r(o,c,n,d,i,p){return a(),t("div")}const m=e(s,[["render",r]]);export{_ as __pageData,m as default};
