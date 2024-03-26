@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.DIOhhsLK.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/permission-center.md","filePath":"guide/permission-center.md"}'),s={name:"guide/permission-center.md"};function n(i,o,a,c,p,d){return r(),t("div")}const f=e(s,[["render",n]]);export{_ as __pageData,f as default};
